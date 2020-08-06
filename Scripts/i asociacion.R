@@ -1,4 +1,3 @@
-setwd("~/Dropbox/Clases/acuantitativo/acuantitativo_R/s2020")
 ## Bases de datos 
 ## Enlace.dta (tiny.cc/bdenlace)
 
@@ -24,4 +23,3 @@ cov(Enlace$calesp, Enlace$estatus)
 cor(Enlace$calesp, Enlace$estatus)
 
 cor(Enlace$calesp, Enlace$calmat)
-
