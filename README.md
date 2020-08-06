@@ -1,5 +1,5 @@
-# Clase: análisis cuantitativo
-Es una clase de introducción a los métodos cuantatitivos dirigida a estudiantes de lienciacatura de la FCPyS de la UNAM.
+# Curso: análisis cuantitativo
+Es una clase de introducción a los métodos cuantitativos dirigida a estudiantes de licenciatura de la FCPyS de la UNAM.
 
 El contenido alterna la exposición de la teoría con prácticas en el software R, con ejemplos aplicados de la ciencia política.
 
