@@ -1,5 +1,3 @@
-setwd("~/Dropbox/Clases/acuantitativo/acuantitativo_R/s2020")
-
 ## Bases de datos 
 ## Electoral (tiny.cc/electoral)
 
